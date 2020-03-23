@@ -1,1 +1,1 @@
-# js-promises-and-async
+# JS: Promises with Async/Await
